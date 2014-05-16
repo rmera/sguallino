@@ -2,8 +2,8 @@ sguallino
 =========
 
 Sguallino is an old program. Unfortunately the code and comments are in Spanish, as 
-I was not good at all at English when I wrote it. I have translated some parts, and 
-if I ever have the time/willpower, I might translate more.
+I barely knew English when I wrote it. I have translated some parts, and if I ever 
+have the time/willpower, I might translate more.
 
 The idea of the progrm is to evaluate aminoacidic sequence alignments for homology
 modelling. Sguallino takes the alignment in fasta format and other files with 

@@ -12,5 +12,4 @@ nicely so problems with the alignment are easily seen. It also produces a PDB wh
 the quality of the alignment of each part of the sequence is signaled in the b-factor
 of each atom, and insertions/deletions are signaled with ions.
 
-If you ever need it and cannot use it due to the Spanish comments/code, drop me a line,
-I may fix it/help if I happen to have the time at the moment.
+
